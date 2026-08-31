@@ -1,0 +1,9 @@
+*.pem
+__pycache__/
+*.pyc
+.tox/
+env-api/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
